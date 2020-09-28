@@ -1,0 +1,17 @@
+{
+  "name": "list",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "typescript": "^4.0.3",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "less": "^3.12.2",
+    "vite": "^1.0.0-rc.1"
+  }
+}
